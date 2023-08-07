@@ -1,2 +1,3 @@
 # Verify-Number
-HI
+
+![banner](https://raw.githubusercontent.com/NicoLiao/Verify-Number/main/banner.png)
